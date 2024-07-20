@@ -1,1 +1,1 @@
-Imag gallery made using html,css,javascript.
+Image gallery made using html,css,javascript.
